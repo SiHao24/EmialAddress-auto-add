@@ -1,0 +1,24 @@
+#match_email {
+    margin-left: 48px;
+    overflow: auto;
+    display: none;
+    width: 200px;
+    border: 1px solid #aaa;
+    background: #fff;
+    max-height: 100px;
+    line-height: 20px;
+}
+
+#match_email div{
+    text-decoration: none;
+    color: #000;
+    width: 200px;
+}
+
+#match_emial div:hover{
+    background: #aaa;
+}
+input {
+    height: 20px;
+    width: 200px;
+}
